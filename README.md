@@ -1,3 +1,3 @@
 # Pomodoro-Clock
-
-Build this as part of FCC frontend curriculum
+A simple timer to help users managing their working sessions.
+Made with HTML, Scss and JavaScript.
